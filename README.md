@@ -2,7 +2,7 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marconeribeiro/)](www.linkedin.com/in/marconeribeiro) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=http://www.instagram.com/marci_tech/)](https://www.instagram.com/marci_tech/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marconeribeiro/)](https://www.linkedin.com/in/marconeribeiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/mastertesters/)](https://www.instagram.com/mastertesters/) 
 
 
 <!--
