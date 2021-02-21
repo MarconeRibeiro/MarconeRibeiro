@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marconeribeiro/)](www.linkedin.com/in/marconeribeiro) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=http://www.instagram.com/marci_tech/)](https://www.instagram.com/marci_tech/) 
+
+
 <!--
 **MarconeRibeiro/MarconeRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
